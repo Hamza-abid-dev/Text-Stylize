@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Text-Stylize/static/css/main.e6c13ad2.css",
+    "main.js": "/Text-Stylize/static/js/main.0a8cbfb6.js",
+    "index.html": "/Text-Stylize/index.html",
+    "main.e6c13ad2.css.map": "/Text-Stylize/static/css/main.e6c13ad2.css.map",
+    "main.0a8cbfb6.js.map": "/Text-Stylize/static/js/main.0a8cbfb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0a8cbfb6.js"
+  ]
+}
